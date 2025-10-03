@@ -1,6 +1,6 @@
 import React from "react";
-import Calculadora from './Calculadora';
-import './styles.css';
+import Calculadora from "./Componente/Calculadora";
+import "./styles.css";
 
 
 export default function App() {
